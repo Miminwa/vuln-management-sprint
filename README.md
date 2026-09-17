@@ -8,7 +8,7 @@ One-week SOC analyst project (compressed into two days) using Wazuh 4.14.6 Vulne
 
 | File | What it is |
 |---|---|
-| `report/Remediation_Report.docx` | 2-page remediation report |
+| `report/Remediation_Report.pdf` | 2-page remediation report |
 | `slides/Lightning_Presentation.pptx` | 5-minute lightning talk (6 slides, speaker notes included) |
 | `data/prioritization_worksheet.xlsx` | CVSS + KEV + asset-criticality scoring, formula-driven P1/P2/P3 tiers |
 | `data/asset_inventory.md` | Endpoint roles, exposure and criticality ratings |
