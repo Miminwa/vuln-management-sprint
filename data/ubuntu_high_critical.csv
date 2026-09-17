@@ -1,0 +1,5 @@
+cve,severity,cvss_base,in_kev,agent,packages,version,cvss_vector,description,asset_criticality,priority_tier,justification
+CVE-2026-15308,High,7.5,no,linux-endpoint,libpython3.10; libpython3.10-minimal; libpython3.10-stdlib; python3.10; python3.10-minimal,3.10.12-1~22.04.16,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,The incremental HTML parser (html.parser.HTMLParser) allows for CPU denial-of-service through repeated unterminated markup declarations when processing uncontro,,,
+CVE-2025-54289,High,8.1,no,linux-endpoint,lxd,5.0.9-ea18dad,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N,Privilege Escalation in operations API in Canonical LXD <6.5 on multiple platforms allows attacker with read permissions to hijack terminal or console sessions ,,,
+GROUP: 1288 High/Critical CVEs,Critical,up to 10.0,no,linux-endpoint,linux-image-5.15.0-187-generic,5.15.0-187.197,,"unused kernel (installed, not running): remove package",,,
+GROUP: 1284 High/Critical CVEs,Critical,up to 10.0,no,linux-endpoint,linux-image-5.15.0-191-generic,5.15.0-191.201,,running kernel: upgrade via apt,,,

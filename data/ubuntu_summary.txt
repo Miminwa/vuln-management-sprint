@@ -1,0 +1,19 @@
+Source file: ubuntu_export.csv
+Total findings: 6407
+Unique CVEs: 3205
+By severity:
+  Critical  371
+  High      2207
+  Medium    2383
+  Low       41
+  -         1405
+Top packages:
+  linux-image-5.15.0-187-generic: 3186
+  linux-image-5.15.0-191-generic: 3182
+  lxd: 11
+  libc-bin: 5
+  libc6: 5
+KEV matches: 0 findings
+High/Critical unique CVEs outside unused kernels: 2
+High/Critical grouped on linux-image-5.15.0-187-generic: 1288 (unused kernel (installed, not running): remove package)
+High/Critical grouped on linux-image-5.15.0-191-generic: 1284 (running kernel: upgrade via apt)

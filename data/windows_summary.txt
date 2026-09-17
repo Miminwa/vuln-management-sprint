@@ -1,0 +1,13 @@
+Source file: windows_export.csv
+Total findings: 13
+Unique CVEs: 13
+By severity:
+  Critical  0
+  High      6
+  Medium    7
+  Low       0
+  -         0
+Top packages:
+  Notepad++ (32-bit x86): 13
+KEV matches: 1 findings
+High/Critical unique CVEs outside unused kernels: 6
